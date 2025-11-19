@@ -2,7 +2,6 @@
 
 Created with CodeSandbox
 
-React version of profileEditor-DOM
-The task was to recreate it in React
+Recreate profileEditor-DOM in React
 
 Forked from: https://react.dev/learn/reacting-to-input-with-state#profile-editor
